@@ -1,3 +1,4 @@
+//Given an array of integers, determine the sum of odd numbers and the amount of even numbers	
 import java.util.Scanner;
 
 class Main {
